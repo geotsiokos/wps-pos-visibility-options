@@ -1,7 +1,7 @@
 <?php
 /**
  * Plugin Name: WPS POS Visibility Options
- * Plugin URI: https://github.com/geotsiokos/groups-notifications-alternative-notifications
+ * Plugin URI: https://github.com/geotsiokos/wps-pos-visibility-options/blob/master/wps-pos-visibility-options.php
  * Description: Exclude POS-only products from search results when using the Product Search Field by <a href="https://woo.com/products/woocommerce-product-search/">WooCommerce Product Search</a> and Point of Sale for WooCommerce
  * Version: 1.0.0
  * Author: gtsiokos
